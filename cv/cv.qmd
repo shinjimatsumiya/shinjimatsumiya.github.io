@@ -1,0 +1,123 @@
+---
+title: "Shinji Matsumiya — Curriculum Vitae"
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 2.2cm
+      y: 2cm
+    fontsize: 10.5pt
+    mainfont: "Libertinus Serif"
+    output-file: Matsumiya_CV.pdf
+---
+
+Department of Economics, Faculty of Economics, Josai University · 1-1 Keyakidai, Sakado, Saitama 350-0295, Japan
+smatsumiya@josai.ac.jp · https://shinjimatsumiya.github.io · ORCID 0009-0003-4194-9378
+
+*Last updated: November 2026*
+
+## Academic appointments
+
+- 2026–present — Assistant Professor, Faculty of Economics, Josai University (also Graduate School of Economics from October 2026)
+- 2025–2027 — Visiting Researcher, Research Institute for Higher Education (RIHE), Hiroshima University
+- 2023–2026 — Lecturer (fixed-term), Center for Higher Education, Shinshu University
+- 2021–2022 — Research Assistant, RIHE, Hiroshima University
+
+## Education
+
+- 2024 — Ph.D. in Education, Hiroshima University
+- 2017 — M.A. in Education (Higher Education Development), Hiroshima University
+- 2008 — B.A. in Liberal Arts, Osaka Kyoiku University
+
+## Professional experience
+
+- 2008–2023 — Administrator, Kobe Gakuin University (Student Support Center, 2008–2012; Office of Academic Affairs, 2012–2023; deputy section leader from 2019)
+
+## Book chapters
+
+- Matsumiya, S. 2026. "Assessing the Representativeness of the Survey on Scholarships" (in Japanese). In *The New System for Higher Education Study Support and Private Universities 2025*, 91–98. Research Institute for Independent Higher Education.
+- Yonezawa, A., Y. Fan, R. Nakao, M. Murasawa, and S. Matsumiya. 2022. "Policy Debates and the Reality of the Research Productivity of National Universities in Japan." In *The Performance of Asian Higher Education*, ed. G. Croucher, C. Wang, and J. Yang, 100–113. Routledge.
+
+## Peer-reviewed articles (in Japanese)
+
+- Matsumiya, S. 2026. "Exploring the Factors Determining Under-Enrollment in Private Universities: A Multi-Level Model of Region, University, and Time." *The Japanese Journal of Educational Research* 93(1): 14–25.
+- Kato, Y., M. Niimura, S. Matsumiya, and T. Furuhata. 2026. "Initiatives for the Management of Teaching and Learning at Shinshu University." *Shinshu University Journal of Arts and Sciences* 20: 28–43.
+- Furuhata, T., S. Matsumiya, and Y. Kato. 2025. "Applicability of Supplemental Instruction to Japanese Universities." *Journal of Japan Association for College and University Education* 47(2): 115–125.
+- Matsumiya, S. 2024. "Interpretation According to New Institutional Theory of Grant Application Behavior by Private Universities." *The Journal of NIAD-QE* 26: 1–14.
+- Matsumiya, S., R. Nakao, and Y. Fan. 2023. "Decentralization Trend Caused by the Policy of Tightening Private Universities' Capacity Management." *The Journal of Educational Sociology* 112: 169–190.
+- Matsumiya, S., R. Nakao, Y. Fan, H. Miyata, and M. Murasawa. 2022. "Quality Assurance of Teacher Training from the Perspective of University Management and Characteristics." *Research in Higher Education: Daigaku Ronshu* 54: 55–69.
+- Nakao, R., Y. Fan, H. Miyata, M. Murasawa, and S. Matsumiya. 2022. "Age-Period-Cohort Analysis of Academic Professions' Attitudes." *Research in Higher Education: Daigaku Ronshu* 54: 153–167.
+- Matsumiya, S. 2020. "Effects of Private University Management Reform." *Research in Higher Education: Daigaku Ronshu* 52: 35–49.
+- Matsumiya, S. 2019. "The Actual State of 'Center Organizations' in Teacher Education Programs at Private Universities." *Journal of University Administrative Organization Studies* 6: 45–53. (Invited)
+- Matsumiya, S. 2019. "Considering the Relationship between Private University Reform Type 1, Educational Investment, and Enrollment." *Research in Higher Education: Daigaku Ronshu* 51: 49–64.
+- Matsumiya, S. 2018. "Policy Evaluation of Private University Reform: Applying for Type 1 Status." *Bulletin of the Graduate School of Education, Hiroshima University, Part 3* 67: 227–234.
+- Matsumiya, S. 2018. "Literature Review of Competitive Funds for Japanese National and Private Universities Since the 2000s." *Research in Higher Education: Daigaku Ronshu* 50: 81–96.
+- Matsumiya, S. 2017. "Comparison of Perceptions of Elementary School Teachers' Competencies." *Japan Journal of University Administrative Management* 21: 66–79.
+
+## Invited articles (in Japanese)
+
+- Nakao, R., Y. Fan, M. Murasawa, H. Nishitani, and S. Matsumiya. 2021. "Rethinking the 'Learning Outcome': Using EBPM and Causal Inference as Clues." *University Evaluation Review* 20: 53–61.
+- Tateishi, S., K. Maruyama, M. Hayami, S. Matsumiya, R. Nakao, and M. Murasawa. 2019. "On Statistical Methods in Higher Education Studies." *The Journal of Educational Sociology* 104: 29–55.
+- Murasawa, M., R. Nakao, and S. Matsumiya. 2019. "University Research Productivity and Governance." *Nagoya Journal of Higher Education* 19: 153–169.
+
+## Working papers and reports
+
+- "After Universal Access: Contraction Without Exit in Japan's Private Higher Education."
+- "Human Capital or Signaling? A Comparative Test of the College Wage Premium Using Survey Data and University Selectivity."
+- Konishi, R., S. Matsumiya, and K. Takahashi. 2026. "Parallel Application Behavior and Enrollment Deposit Payments in University Admissions in Japan" (in Japanese). *RIHE Monograph Series* 15: 1–16.
+
+## Book reviews (in Japanese)
+
+- 2026 — Review of K. Kuzuki, *What Universities Should Be in the Era of Universalization*. *Research in Higher Education: Daigaku Ronshu* 60: 67–70.
+- 2025 — Review of H. Nakanishi, *Evidence in Education Policy*. *Research in Higher Education: Daigaku Ronshu* 58: 228–230.
+
+## Selected presentations
+
+- 2026 — "Multiple Applications and Enrollment Fee Payments in University Entrance Examinations" (with R. Konishi and K. Takahashi). 99th Annual Meeting, Japan Sociological Society.
+- 2026 — "Who Learns, Who Gains? Unequal Access to and Returns from Employer-Sponsored Training and Self-Directed Learning in Japan." 213th Workshop on Higher Education for the Next Generation.
+- 2026 — "After Universal Access: The Managed Contraction of Japan's Private-Led Higher Education System." Workshop for Writing Sociology Papers in English.
+- 2026 — "Human Capital or Signaling? A Comparative Test of the College Wage Premium Using Survey Data and University Selectivity." 81st Annual Conference, Japanese Association for Mathematical Sociology (poster).
+- 2026 — "Potential Gender Inequality in Pass/Fail Outcomes of Teacher Employment Examinations: A Perspective from Effect-Measure Modification." 85th Annual Conference, Japanese Educational Research Association.
+- 2026 — "The Causal Effect of Private School Subsidy on Private University Management and Its Heterogeneity." 29th Annual Conference, Japanese Association of Higher Education Research.
+- 2025 — "Understanding Private University Management in an Era of Declining Birthrates through Subsidy Policies." Invited seminar, Center for Higher Education Research, Nagoya University.
+- 2025 — "The Actual Impact of Under-Enrollment on Private University Management: Marginal Structural Models of Causal Effects, Interactions, and Effect Modifications." 79th Annual Conference, Japanese Association for Mathematical Sociology.
+- 2025 — "Quantitative Analysis of Private University Reform: Policy Outcomes through Government Subsidies." Invited talk, 101st Kyushu Educational Sociology Research Exchange Seminar.
+- 2024 — "Gender Heterogeneity in Teacher Recruitment." 76th Annual Meeting, Japan Society of Educational Sociology.
+- 2024 — "Causal Effects of Enrollment Shortfalls on Financial Performance in Private Universities: An Application of G-Methods." 77th Annual Conference, Japanese Association for Mathematical Sociology (poster).
+- 2024 — "An Analysis of Private University Reform and Policy in the 2010s." Invited seminar, RIHE, Hiroshima University.
+- 2024 — "Reevaluation of the 'Under-Enrollment' Problem in Private Universities: Time-Dependent Treatments and Confounding." 76th Annual Conference, Japanese Association for Mathematical Sociology (poster; Travel Grant).
+- 2018 — "Do Private School Subsidies Keep Under-enrolled Universities Alive?" 70th Annual Meeting, Japan Society of Educational Sociology.
+
+## Grants
+
+- 2024–2027 — JSPS KAKENHI Grant-in-Aid for Early-Career Scientists (24K16629), Principal Investigator. "Rethinking the Causal Relationship between Under-Enrollment and Bankruptcy of Private Universities: From Cases of Time-Varying Management Strategies."
+- 2024–2028 — JSPS KAKENHI Grant-in-Aid for Scientific Research (B) (24K00387), Co-Investigator. "Visualizing Non-Learning Activities and Deviant Behaviors among University Students."
+- 2026–2028 — Josai University President's Discretionary Research Encouragement Fund, Co-Investigator. "The Reproduction of Social Stratification in Mass Higher Education: Household Finances and Educational Expenditures in a Parent Survey."
+- 2024–2027 — Research Institute for Independent Higher Education, Association of Private Universities of Japan, Project Member. "Financial Management and Fiscal Affairs of Private Universities."
+- 2023 — JSPS KAKENHI Grant-in-Aid for Scientific Research (B) (20H01643), Co-Investigator. "Advancement of Higher Education Policy and Research through Critical Examination of EBPM."
+- 2023–2024 — Shinshu University Strategic Funding. "Development and Establishment of a Learning Support System Based on Students' Peer Learning Capacity."
+- 2015–2016 — Japan Association of University Administrative Management, Young Researcher Encouragement Grant, Principal Investigator.
+
+## Awards
+
+- 2025 — Best Practices in General Education, Shinshu University
+- 2024 — Travel Grant, Japanese Association for Mathematical Sociology
+
+## Teaching
+
+- Josai University (2026–): Econometrics I/II; Economic Statistics I/II; Sociology A/B; Quantitative Analysis with Spreadsheets; First- and Second-Year Seminars
+- Shinshu University (2023–2026): Introduction to Sociology; University and Society; Foundations of Policy Science; Academic Literacy
+
+## Professional service
+
+- 2025–present — Ethics Committee, Japan Society of Educational Sociology
+- 2025–present — Conference Planning Committee, Japan Association for College and University Education
+- 2024–2025 — Vice Chair, Organizing Committee, 76th Annual Meeting, Japan Society of Educational Sociology
+
+## Memberships
+
+Japan Society of Educational Sociology; Japan Sociological Society; Japanese Association of Higher Education Research; Japan Association for College and University Education; Japanese Association for Mathematical Sociology; Japanese Society for Quantitative Political Science; Japanese Educational Research Association; Japanese Society for the Study on Teacher Education
+
+## Certifications
+
+Certified Professional Social Researcher (Japan Association for Social Research); High School Teacher's License (Japanese Language)

@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+
+website:
+  title: "Shinji Matsumiya"
+  site-url: "https://shinjimatsumiya.github.io"
+  description: "Sociologist of education at Josai University, studying private higher education and educational inequality in Japan."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: files/Matsumiya_CV.pdf
+        text: CV
+    right:
+      - href: ja.qmd
+        text: 日本語
+  page-footer:
+    center: "© Shinji Matsumiya · Last updated 2026-11"
+
+format:
+  html:
+    theme:
+      light: [litera, styles.scss]
+    toc: false
+    page-layout: article
