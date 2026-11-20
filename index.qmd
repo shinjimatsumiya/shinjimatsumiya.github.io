@@ -1,7 +1,7 @@
 ---
 title: "Shinji Matsumiya"
 subtitle: "Assistant Professor, Faculty of Economics, Josai University"
-# image: files/profile.jpg   # 顔写真を files/profile.jpg に置いたら先頭の "# " を消す
+image: files/profile.jpg
 about:
   template: trestles
   image-shape: rectangle
