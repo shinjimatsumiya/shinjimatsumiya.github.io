@@ -11,99 +11,99 @@ title: "Publications"
 ## Book chapters
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2026. "Assessing the Representativeness of the Survey on Scholarships" (in Japanese). In *The New System for Higher Education Study Support and Private Universities 2025*, 91–98. Private Higher Education Research Series. Tokyo: Research Institute for Independent Higher Education, Association of Private Universities of Japan.
+**Shinji Matsumiya.** 2026. "Assessing the Representativeness of the Survey on Scholarships" (in Japanese). In *The New System for Higher Education Study Support and Private Universities 2025*, 91–98. Private Higher Education Research Series. Tokyo: Research Institute for Independent Higher Education, Association of Private Universities of Japan.
 :::
 
 ::: {.pub}
-Yonezawa, Akiyoshi, Yizhou Fan, Ran Nakao, Masataka Murasawa, and **Shinji Matsumiya.** 2022. "Policy Debates and the Reality of the Research Productivity of National Universities in Japan." In *The Performance of Asian Higher Education: Understanding Productivity Across Institutions and Systems*, edited by Gwilym Croucher, Chuanyi Wang, and Jiale Yang, 100–113. London: Routledge.
+Akiyoshi Yonezawa, Yizhou Fan, Ran Nakao, Masataka Murasawa, and **Shinji Matsumiya.** 2022. "Policy Debates and the Reality of the Research Productivity of National Universities in Japan." In *The Performance of Asian Higher Education: Understanding Productivity Across Institutions and Systems*, edited by Gwilym Croucher, Chuanyi Wang, and Jiale Yang, 100–113. London: Routledge.
 :::
 
 ## Peer-reviewed articles (in Japanese)
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2026. "Exploring the Factors Determining Under-Enrollment in Private Universities: A Multi-Level Model of Region, University, and Time." *The Japanese Journal of Educational Research* 93(1): 14–25. [doi:10.11555/kyoiku.93.1_14](https://doi.org/10.11555/kyoiku.93.1_14)
+**Shinji Matsumiya.** 2026. "Exploring the Factors Determining Under-Enrollment in Private Universities: A Multi-Level Model of Region, University, and Time." *The Japanese Journal of Educational Research* 93(1): 14–25. [doi:10.11555/kyoiku.93.1_14](https://doi.org/10.11555/kyoiku.93.1_14)
 :::
 
 ::: {.pub}
-Kato, Yoshiko, Masaaki Niimura, **Shinji Matsumiya**, and Tsubasa Furuhata. 2026. "Initiatives for the Management of Teaching and Learning at Shinshu University: Design, Development, and Operation." *Shinshu University Journal of Arts and Sciences* 20: 28–43.
+Yoshiko Kato, Masaaki Niimura, **Shinji Matsumiya**, and Tsubasa Furuhata. 2026. "Initiatives for the Management of Teaching and Learning at Shinshu University: Design, Development, and Operation." *Shinshu University Journal of Arts and Sciences* 20: 28–43.
 :::
 
 ::: {.pub}
-Furuhata, Tsubasa, **Shinji Matsumiya**, and Yoshiko Kato. 2025. "Applicability of Supplemental Instruction to Japanese Universities: Review of Literature in Japan and the United States." *Journal of Japan Association for College and University Education* 47(2): 115–125.
+Tsubasa Furuhata, **Shinji Matsumiya**, and Yoshiko Kato. 2025. "Applicability of Supplemental Instruction to Japanese Universities: Review of Literature in Japan and the United States." *Journal of Japan Association for College and University Education* 47(2): 115–125.
 :::
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2024. "Interpretation According to New Institutional Theory of Grant Application Behavior by Private Universities: Using Causal Inference with the Private University Reform Type 1 as a Case Study." *The Journal of NIAD-QE* 26: 1–14.
+**Shinji Matsumiya.** 2024. "Interpretation According to New Institutional Theory of Grant Application Behavior by Private Universities: Using Causal Inference with the Private University Reform Type 1 as a Case Study." *The Journal of NIAD-QE* 26: 1–14.
 :::
 
 ::: {.pub}
-**Matsumiya, Shinji**, Ran Nakao, and Yizhou Fan. 2023. "Decentralization Trend Caused by the Policy of Tightening Private Universities' Capacity Management: A Reexamination Using Time-Series Data on Enrollment Rates." *The Journal of Educational Sociology* 112: 169–190. [doi:10.11151/eds.112.169](https://doi.org/10.11151/eds.112.169)
+**Shinji Matsumiya**, Ran Nakao, and Yizhou Fan. 2023. "Decentralization Trend Caused by the Policy of Tightening Private Universities' Capacity Management: A Reexamination Using Time-Series Data on Enrollment Rates." *The Journal of Educational Sociology* 112: 169–190. [doi:10.11151/eds.112.169](https://doi.org/10.11151/eds.112.169)
 :::
 
 ::: {.pub}
-**Matsumiya, Shinji**, Ran Nakao, Yizhou Fan, Hirokazu Miyata, and Masataka Murasawa. 2022. "Quality Assurance of Teacher Training from the Perspective of University Management and Characteristics: A Comparison of Before and After Re-accreditation." *Research in Higher Education: Daigaku Ronshu* 54: 55–69. [doi:10.15027/52405](https://doi.org/10.15027/52405)
+**Shinji Matsumiya**, Ran Nakao, Yizhou Fan, Hirokazu Miyata, and Masataka Murasawa. 2022. "Quality Assurance of Teacher Training from the Perspective of University Management and Characteristics: A Comparison of Before and After Re-accreditation." *Research in Higher Education: Daigaku Ronshu* 54: 55–69. [doi:10.15027/52405](https://doi.org/10.15027/52405)
 :::
 
 ::: {.pub}
-Nakao, Ran, Yizhou Fan, Hirokazu Miyata, Masataka Murasawa, and **Shinji Matsumiya.** 2022. "Age-Period-Cohort Analysis of Academic Professions' Attitudes: A Case Study on Their Education and Research Orientation." *Research in Higher Education: Daigaku Ronshu* 54: 153–167. [doi:10.15027/52411](https://doi.org/10.15027/52411)
+Ran Nakao, Yizhou Fan, Hirokazu Miyata, Masataka Murasawa, and **Shinji Matsumiya.** 2022. "Age-Period-Cohort Analysis of Academic Professions' Attitudes: A Case Study on Their Education and Research Orientation." *Research in Higher Education: Daigaku Ronshu* 54: 153–167. [doi:10.15027/52411](https://doi.org/10.15027/52411)
 :::
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2020. "Effects of Private University Management Reform." *Research in Higher Education: Daigaku Ronshu* 52: 35–49. [doi:10.15027/48917](https://doi.org/10.15027/48917)
+**Shinji Matsumiya.** 2020. "Effects of Private University Management Reform." *Research in Higher Education: Daigaku Ronshu* 52: 35–49. [doi:10.15027/48917](https://doi.org/10.15027/48917)
 :::
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2019. "The Actual State of 'Center Organizations' in Teacher Education Programs at Private Universities." *Journal of University Administrative Organization Studies* 6: 45–53. (Invited)
+**Shinji Matsumiya.** 2019. "The Actual State of 'Center Organizations' in Teacher Education Programs at Private Universities." *Journal of University Administrative Organization Studies* 6: 45–53. (Invited)
 :::
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2019. "Considering the Relationship between Private University Reform Type 1, Educational Investment, and Enrollment." *Research in Higher Education: Daigaku Ronshu* 51: 49–64. [doi:10.15027/47520](https://doi.org/10.15027/47520)
+**Shinji Matsumiya.** 2019. "Considering the Relationship between Private University Reform Type 1, Educational Investment, and Enrollment." *Research in Higher Education: Daigaku Ronshu* 51: 49–64. [doi:10.15027/47520](https://doi.org/10.15027/47520)
 :::
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2018. "Policy Evaluation of Private University Reform: Applying for Type 1 Status." *Bulletin of the Graduate School of Education, Hiroshima University, Part 3* 67: 227–234. [doi:10.15027/46830](https://doi.org/10.15027/46830)
+**Shinji Matsumiya.** 2018. "Policy Evaluation of Private University Reform: Applying for Type 1 Status." *Bulletin of the Graduate School of Education, Hiroshima University, Part 3* 67: 227–234. [doi:10.15027/46830](https://doi.org/10.15027/46830)
 :::
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2018. "Literature Review of Competitive Funds for Japanese National and Private Universities Since the 2000s." *Research in Higher Education: Daigaku Ronshu* 50: 81–96. [doi:10.15027/45667](https://doi.org/10.15027/45667)
+**Shinji Matsumiya.** 2018. "Literature Review of Competitive Funds for Japanese National and Private Universities Since the 2000s." *Research in Higher Education: Daigaku Ronshu* 50: 81–96. [doi:10.15027/45667](https://doi.org/10.15027/45667)
 :::
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2017. "Comparison of Perceptions of Elementary School Teachers' Competencies: Universities and Boards of Education at the Hiring Stage." *Japan Journal of University Administrative Management* 21: 66–79.
+**Shinji Matsumiya.** 2017. "Comparison of Perceptions of Elementary School Teachers' Competencies: Universities and Boards of Education at the Hiring Stage." *Japan Journal of University Administrative Management* 21: 66–79.
 :::
 
 ## Invited articles (in Japanese)
 
 ::: {.pub}
-Nakao, Ran, Yizhou Fan, Masataka Murasawa, Hajime Nishitani, and **Shinji Matsumiya.** 2021. "Rethinking the 'Learning Outcome': Using EBPM and Causal Inference as Clues." *University Evaluation Review* 20: 53–61.
+Ran Nakao, Yizhou Fan, Masataka Murasawa, Hajime Nishitani, and **Shinji Matsumiya.** 2021. "Rethinking the 'Learning Outcome': Using EBPM and Causal Inference as Clues." *University Evaluation Review* 20: 53–61.
 :::
 
 ::: {.pub}
-Tateishi, Shinji, Kazuaki Maruyama, Mikiya Hayami, **Shinji Matsumiya**, Ran Nakao, and Masataka Murasawa. 2019. "On Statistical Methods in Higher Education Studies: From the Perspective of a Boundary around the Japan Society of Educational Sociology." *The Journal of Educational Sociology* 104: 29–55. [doi:10.11151/eds.104.29](https://doi.org/10.11151/eds.104.29)
+Shinji Tateishi, Kazuaki Maruyama, Mikiya Hayami, **Shinji Matsumiya**, Ran Nakao, and Masataka Murasawa. 2019. "On Statistical Methods in Higher Education Studies: From the Perspective of a Boundary around the Japan Society of Educational Sociology." *The Journal of Educational Sociology* 104: 29–55. [doi:10.11151/eds.104.29](https://doi.org/10.11151/eds.104.29)
 :::
 
 ::: {.pub}
-Murasawa, Masataka, Ran Nakao, and **Shinji Matsumiya.** 2019. "University Research Productivity and Governance." *Nagoya Journal of Higher Education* 19: 153–169. [doi:10.18999/njhe.19.153](https://doi.org/10.18999/njhe.19.153)
+Masataka Murasawa, Ran Nakao, and **Shinji Matsumiya.** 2019. "University Research Productivity and Governance." *Nagoya Journal of Higher Education* 19: 153–169. [doi:10.18999/njhe.19.153](https://doi.org/10.18999/njhe.19.153)
 :::
 
 ## Reports
 
 ::: {.pub}
-Konishi, Ryo, **Shinji Matsumiya**, and Kentaro Takahashi. 2026. "Parallel Application Behavior and Enrollment Deposit Payments in University Admissions in Japan: A Preliminary Analysis Based on a Retrospective Survey of Students Enrolled in National Universities" (in Japanese). *Advancement of Higher Education Research: RIHE Monograph Series* 15: 1–16.
+Ryo Konishi, **Shinji Matsumiya**, and Kentaro Takahashi. 2026. "Parallel Application Behavior and Enrollment Deposit Payments in University Admissions in Japan: A Preliminary Analysis Based on a Retrospective Survey of Students Enrolled in National Universities" (in Japanese). *Advancement of Higher Education Research: RIHE Monograph Series* 15: 1–16.
 :::
 
 ## Book reviews (in Japanese)
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2026. Review of *What Universities Should Be in the Era of Universalization*, by Koichi Kuzuki. *Research in Higher Education: Daigaku Ronshu* 60: 67–70.
+**Shinji Matsumiya.** 2026. Review of *What Universities Should Be in the Era of Universalization*, by Koichi Kuzuki. *Research in Higher Education: Daigaku Ronshu* 60: 67–70.
 :::
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2025. Review of *Evidence in Education Policy*, by Hiroki Nakanishi. *Research in Higher Education: Daigaku Ronshu* 58: 228–230.
+**Shinji Matsumiya.** 2025. Review of *Evidence in Education Policy*, by Hiroki Nakanishi. *Research in Higher Education: Daigaku Ronshu* 58: 228–230.
 :::
 
 ## Theses
 
 ::: {.pub}
-**Matsumiya, Shinji.** 2024. "An Analysis of Private University Reform and Policy in the 2010s: The Impact of Policy Guidance through Subsidies" (in Japanese). Ph.D. dissertation, Hiroshima University.
+**Shinji Matsumiya.** 2024. "An Analysis of Private University Reform and Policy in the 2010s: The Impact of Policy Guidance through Subsidies" (in Japanese). Ph.D. dissertation, Hiroshima University.
 :::

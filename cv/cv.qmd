@@ -35,34 +35,34 @@ smatsumiya@josai.ac.jp · https://shinjimatsumiya.github.io · ORCID 0009-0003-4
 
 ## Book chapters
 
-- Matsumiya, S. 2026. "Assessing the Representativeness of the Survey on Scholarships" (in Japanese). In *The New System for Higher Education Study Support and Private Universities 2025*, 91–98. Research Institute for Independent Higher Education.
-- Yonezawa, A., Y. Fan, R. Nakao, M. Murasawa, and S. Matsumiya. 2022. "Policy Debates and the Reality of the Research Productivity of National Universities in Japan." In *The Performance of Asian Higher Education*, ed. G. Croucher, C. Wang, and J. Yang, 100–113. Routledge.
+- S. Matsumiya. 2026. "Assessing the Representativeness of the Survey on Scholarships" (in Japanese). In *The New System for Higher Education Study Support and Private Universities 2025*, 91–98. Research Institute for Independent Higher Education.
+- A. Yonezawa, Y. Fan, R. Nakao, M. Murasawa, and S. Matsumiya. 2022. "Policy Debates and the Reality of the Research Productivity of National Universities in Japan." In *The Performance of Asian Higher Education*, ed. G. Croucher, C. Wang, and J. Yang, 100–113. Routledge.
 
 ## Peer-reviewed articles (in Japanese)
 
-- Matsumiya, S. 2026. "Exploring the Factors Determining Under-Enrollment in Private Universities: A Multi-Level Model of Region, University, and Time." *The Japanese Journal of Educational Research* 93(1): 14–25.
-- Kato, Y., M. Niimura, S. Matsumiya, and T. Furuhata. 2026. "Initiatives for the Management of Teaching and Learning at Shinshu University." *Shinshu University Journal of Arts and Sciences* 20: 28–43.
-- Furuhata, T., S. Matsumiya, and Y. Kato. 2025. "Applicability of Supplemental Instruction to Japanese Universities." *Journal of Japan Association for College and University Education* 47(2): 115–125.
-- Matsumiya, S. 2024. "Interpretation According to New Institutional Theory of Grant Application Behavior by Private Universities." *The Journal of NIAD-QE* 26: 1–14.
-- Matsumiya, S., R. Nakao, and Y. Fan. 2023. "Decentralization Trend Caused by the Policy of Tightening Private Universities' Capacity Management." *The Journal of Educational Sociology* 112: 169–190.
-- Matsumiya, S., R. Nakao, Y. Fan, H. Miyata, and M. Murasawa. 2022. "Quality Assurance of Teacher Training from the Perspective of University Management and Characteristics." *Research in Higher Education: Daigaku Ronshu* 54: 55–69.
-- Nakao, R., Y. Fan, H. Miyata, M. Murasawa, and S. Matsumiya. 2022. "Age-Period-Cohort Analysis of Academic Professions' Attitudes." *Research in Higher Education: Daigaku Ronshu* 54: 153–167.
-- Matsumiya, S. 2020. "Effects of Private University Management Reform." *Research in Higher Education: Daigaku Ronshu* 52: 35–49.
-- Matsumiya, S. 2019. "The Actual State of 'Center Organizations' in Teacher Education Programs at Private Universities." *Journal of University Administrative Organization Studies* 6: 45–53. (Invited)
-- Matsumiya, S. 2019. "Considering the Relationship between Private University Reform Type 1, Educational Investment, and Enrollment." *Research in Higher Education: Daigaku Ronshu* 51: 49–64.
-- Matsumiya, S. 2018. "Policy Evaluation of Private University Reform: Applying for Type 1 Status." *Bulletin of the Graduate School of Education, Hiroshima University, Part 3* 67: 227–234.
-- Matsumiya, S. 2018. "Literature Review of Competitive Funds for Japanese National and Private Universities Since the 2000s." *Research in Higher Education: Daigaku Ronshu* 50: 81–96.
-- Matsumiya, S. 2017. "Comparison of Perceptions of Elementary School Teachers' Competencies." *Japan Journal of University Administrative Management* 21: 66–79.
+- S. Matsumiya. 2026. "Exploring the Factors Determining Under-Enrollment in Private Universities: A Multi-Level Model of Region, University, and Time." *The Japanese Journal of Educational Research* 93(1): 14–25.
+- Y. Kato, M. Niimura, S. Matsumiya, and T. Furuhata. 2026. "Initiatives for the Management of Teaching and Learning at Shinshu University." *Shinshu University Journal of Arts and Sciences* 20: 28–43.
+- T. Furuhata, S. Matsumiya, and Y. Kato. 2025. "Applicability of Supplemental Instruction to Japanese Universities." *Journal of Japan Association for College and University Education* 47(2): 115–125.
+- S. Matsumiya. 2024. "Interpretation According to New Institutional Theory of Grant Application Behavior by Private Universities." *The Journal of NIAD-QE* 26: 1–14.
+- S. Matsumiya, R. Nakao, and Y. Fan. 2023. "Decentralization Trend Caused by the Policy of Tightening Private Universities' Capacity Management." *The Journal of Educational Sociology* 112: 169–190.
+- S. Matsumiya, R. Nakao, Y. Fan, H. Miyata, and M. Murasawa. 2022. "Quality Assurance of Teacher Training from the Perspective of University Management and Characteristics." *Research in Higher Education: Daigaku Ronshu* 54: 55–69.
+- R. Nakao, Y. Fan, H. Miyata, M. Murasawa, and S. Matsumiya. 2022. "Age-Period-Cohort Analysis of Academic Professions' Attitudes." *Research in Higher Education: Daigaku Ronshu* 54: 153–167.
+- S. Matsumiya. 2020. "Effects of Private University Management Reform." *Research in Higher Education: Daigaku Ronshu* 52: 35–49.
+- S. Matsumiya. 2019. "The Actual State of 'Center Organizations' in Teacher Education Programs at Private Universities." *Journal of University Administrative Organization Studies* 6: 45–53. (Invited)
+- S. Matsumiya. 2019. "Considering the Relationship between Private University Reform Type 1, Educational Investment, and Enrollment." *Research in Higher Education: Daigaku Ronshu* 51: 49–64.
+- S. Matsumiya. 2018. "Policy Evaluation of Private University Reform: Applying for Type 1 Status." *Bulletin of the Graduate School of Education, Hiroshima University, Part 3* 67: 227–234.
+- S. Matsumiya. 2018. "Literature Review of Competitive Funds for Japanese National and Private Universities Since the 2000s." *Research in Higher Education: Daigaku Ronshu* 50: 81–96.
+- S. Matsumiya. 2017. "Comparison of Perceptions of Elementary School Teachers' Competencies." *Japan Journal of University Administrative Management* 21: 66–79.
 
 ## Invited articles (in Japanese)
 
-- Nakao, R., Y. Fan, M. Murasawa, H. Nishitani, and S. Matsumiya. 2021. "Rethinking the 'Learning Outcome': Using EBPM and Causal Inference as Clues." *University Evaluation Review* 20: 53–61.
-- Tateishi, S., K. Maruyama, M. Hayami, S. Matsumiya, R. Nakao, and M. Murasawa. 2019. "On Statistical Methods in Higher Education Studies." *The Journal of Educational Sociology* 104: 29–55.
-- Murasawa, M., R. Nakao, and S. Matsumiya. 2019. "University Research Productivity and Governance." *Nagoya Journal of Higher Education* 19: 153–169.
+- R. Nakao, Y. Fan, M. Murasawa, H. Nishitani, and S. Matsumiya. 2021. "Rethinking the 'Learning Outcome': Using EBPM and Causal Inference as Clues." *University Evaluation Review* 20: 53–61.
+- S. Tateishi, K. Maruyama, M. Hayami, S. Matsumiya, R. Nakao, and M. Murasawa. 2019. "On Statistical Methods in Higher Education Studies." *The Journal of Educational Sociology* 104: 29–55.
+- M. Murasawa, R. Nakao, and S. Matsumiya. 2019. "University Research Productivity and Governance." *Nagoya Journal of Higher Education* 19: 153–169.
 
 ## Reports
 
-- Konishi, R., S. Matsumiya, and K. Takahashi. 2026. "Parallel Application Behavior and Enrollment Deposit Payments in University Admissions in Japan" (in Japanese). *RIHE Monograph Series* 15: 1–16.
+- R. Konishi, S. Matsumiya, and K. Takahashi. 2026. "Parallel Application Behavior and Enrollment Deposit Payments in University Admissions in Japan" (in Japanese). *RIHE Monograph Series* 15: 1–16.
 
 ## Book reviews (in Japanese)
 
