@@ -20,7 +20,7 @@ jobs:
         run: |
           quarto render cv/cv.qmd
           mkdir -p files
-          mv cv/Matsumiya_CV.pdf files/
+          cp docs/cv/Matsumiya_CV.pdf files/
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
