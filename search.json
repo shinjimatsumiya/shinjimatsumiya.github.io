@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shinji Matsumiya",
+    "section": "",
+    "text": "I am a sociologist of education working at the intersection of higher education policy and quantitative causal inference. My research asks how Japan’s private-led higher education system responds to demographic decline, whether public subsidies and regulations achieve what they promise, and how these institutional changes shape educational inequality.\nBefore entering academia, I worked for fifteen years as an administrator at a private university, in student support and academic affairs. That experience shapes my questions about institutional finance, enrollment, and policy steering. I build original institution-level panel datasets and link them with social survey microdata, and I analyze them with methods for time-varying treatments and confounding: marginal structural models (IPTW/IPCW), g-methods, multilevel models, and age–period–cohort analysis."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Shinji Matsumiya",
+    "section": "Research interests",
+    "text": "Research interests\n\nPrivate higher education and contraction under demographic decline\nPublic subsidies, enrollment control, and institutional behavior\nEducational stratification and returns to college selectivity\nCausal inference with time-varying confounding"
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Shinji Matsumiya",
+    "section": "Selected work",
+    "text": "Selected work\n\nYonezawa, A., Y. Fan, R. Nakao, M. Murasawa, and S. Matsumiya. 2022. “Policy Debates and the Reality of the Research Productivity of National Universities in Japan.” In The Performance of Asian Higher Education, ed. G. Croucher, C. Wang, and J. Yang, 100–113. Routledge.\nMatsumiya, S. 2026. “Exploring the Factors Determining Under-Enrollment in Private Universities: A Multi-Level Model of Region, University, and Time” (in Japanese). The Japanese Journal of Educational Research 93(1): 14–25.\nMatsumiya, S., R. Nakao, and Y. Fan. 2023. “Decentralization Trend Caused by the Policy of Tightening Private Universities’ Capacity Management: A Reexamination Using Time-Series Data on Enrollment Rates” (in Japanese). The Journal of Educational Sociology 112: 169–190.\n\nAll publications →"
+  },
+  {
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "Shinji Matsumiya",
+    "section": "Current projects",
+    "text": "Current projects\n\nAfter Universal Access: Contraction Without Exit in Japan’s Private Higher Education (working paper)\nHuman Capital or Signaling? A comparative test of the college wage premium using survey data and university selectivity\nRethinking the causal relationship between under-enrollment and bankruptcy of private universities (JSPS KAKENHI 24K16629, PI, 2024–2027)"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Shinji Matsumiya",
+    "section": "Background",
+    "text": "Background\n\n2026–present: Assistant Professor, Faculty of Economics and Graduate School of Economics, Josai University\n2025–2027: Visiting Researcher, Research Institute for Higher Education, Hiroshima University\n2023–2026: Lecturer, Center for Higher Education, Shinshu University\n2008–2023: University administrator, Kobe Gakuin University\n2024: Ph.D. in Education, Hiroshima University\n\nMy name is pronounced SHIN-jee Mah-tsoo-MEE-yah."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -47,41 +82,6 @@
     "title": "Publications",
     "section": "Theses",
     "text": "Theses\n\nMatsumiya, Shinji. 2024. “An Analysis of Private University Reform and Policy in the 2010s: The Impact of Policy Guidance through Subsidies” (in Japanese). Ph.D. dissertation, Hiroshima University."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Shinji Matsumiya",
-    "section": "",
-    "text": "I am a sociologist of education working at the intersection of higher education policy and quantitative causal inference. My research asks how Japan’s private-led higher education system responds to demographic decline, whether public subsidies and regulations achieve what they promise, and how these institutional changes shape educational inequality.\nBefore entering academia, I worked for fifteen years as an administrator at a private university, in student support and academic affairs. That experience shapes my questions about institutional finance, enrollment, and policy steering. I build original institution-level panel datasets and link them with social survey microdata, and I analyze them with methods for time-varying treatments and confounding: marginal structural models (IPTW/IPCW), g-methods, multilevel models, and age–period–cohort analysis."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Shinji Matsumiya",
-    "section": "Research interests",
-    "text": "Research interests\n\nPrivate higher education and contraction under demographic decline\nPublic subsidies, enrollment control, and institutional behavior\nEducational stratification and returns to college selectivity\nCausal inference with time-varying confounding"
-  },
-  {
-    "objectID": "index.html#selected-work",
-    "href": "index.html#selected-work",
-    "title": "Shinji Matsumiya",
-    "section": "Selected work",
-    "text": "Selected work\n\nYonezawa, A., Y. Fan, R. Nakao, M. Murasawa, and S. Matsumiya. 2022. “Policy Debates and the Reality of the Research Productivity of National Universities in Japan.” In The Performance of Asian Higher Education, ed. G. Croucher, C. Wang, and J. Yang, 100–113. Routledge.\nMatsumiya, S. 2026. “Exploring the Factors Determining Under-Enrollment in Private Universities: A Multi-Level Model of Region, University, and Time” (in Japanese). The Japanese Journal of Educational Research 93(1): 14–25.\nMatsumiya, S., R. Nakao, and Y. Fan. 2023. “Decentralization Trend Caused by the Policy of Tightening Private Universities’ Capacity Management: A Reexamination Using Time-Series Data on Enrollment Rates” (in Japanese). The Journal of Educational Sociology 112: 169–190.\n\nAll publications →"
-  },
-  {
-    "objectID": "index.html#current-projects",
-    "href": "index.html#current-projects",
-    "title": "Shinji Matsumiya",
-    "section": "Current projects",
-    "text": "Current projects\n\nAfter Universal Access: Contraction Without Exit in Japan’s Private Higher Education (working paper)\nHuman Capital or Signaling? A comparative test of the college wage premium using survey data and university selectivity\nRethinking the causal relationship between under-enrollment and bankruptcy of private universities (JSPS KAKENHI 24K16629, PI, 2024–2027)"
-  },
-  {
-    "objectID": "index.html#background",
-    "href": "index.html#background",
-    "title": "Shinji Matsumiya",
-    "section": "Background",
-    "text": "Background\n\n2026–present: Assistant Professor, Faculty of Economics and Graduate School of Economics, Josai University\n2025–2027: Visiting Researcher, Research Institute for Higher Education, Hiroshima University\n2023–2026: Lecturer, Center for Higher Education, Shinshu University\n2008–2023: University administrator, Kobe Gakuin University\n2024: Ph.D. in Education, Hiroshima University\n\nMy name is pronounced SHIN-jee Mah-tsoo-MEE-yah."
   },
   {
     "objectID": "ja.html",
