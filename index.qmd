@@ -1,25 +1,25 @@
 ---
-title: "Shinji Matsumiya"
-subtitle: "Assistant Professor, Faculty of Economics, Josai University"
-image: files/profile.jpg
-about:
-  template: trestles
-  image-shape: rectangle
-  image-width: 14em
-  links:
-    - text: CV (PDF)
-      href: files/Matsumiya_CV.pdf
-    - text: Google Scholar
-      href: https://scholar.google.com/citations?user=6knm8P0AAAAJ
-    - text: ORCID
-      href: https://orcid.org/0009-0003-4194-9378
-    - text: researchmap
-      href: https://researchmap.jp/smatsumiya
-    - text: ResearchGate
-      href: https://www.researchgate.net/profile/Shinji-Matsumiya-3
-    - text: Email
-      href: mailto:smatsumiya@josai.ac.jp
+pagetitle: "Shinji Matsumiya"
 ---
+
+```{=html}
+<div class="hero" style="background-image: url('files/banner.jpg');" role="img" aria-label="JOSAI HUB, Josai University"></div>
+
+<div class="profile">
+  <!-- 顔写真: files/face.jpg を置いたら、次の行の先頭と末尾のコメント記号を消す -->
+  <!-- <img class="face" src="files/face.jpg" alt="Shinji Matsumiya"> -->
+  <h1 class="name">Shinji Matsumiya</h1>
+  <p class="role">Assistant Professor, Faculty of Economics, Josai University</p>
+  <p class="links">
+    <a href="files/Matsumiya_CV.pdf">CV (PDF)</a>
+    <a href="https://scholar.google.com/citations?user=6knm8P0AAAAJ">Google Scholar</a>
+    <a href="https://orcid.org/0009-0003-4194-9378">ORCID</a>
+    <a href="https://researchmap.jp/smatsumiya">researchmap</a>
+    <a href="https://www.researchgate.net/profile/Shinji-Matsumiya-3">ResearchGate</a>
+    <a href="mailto:smatsumiya@josai.ac.jp">Email</a>
+  </p>
+</div>
+```
 
 I am a sociologist of education working at the intersection of higher education policy and quantitative causal inference. My research asks how Japan's private-led higher education system responds to demographic decline, whether public subsidies and regulations achieve what they promise, and how these institutional changes shape educational inequality.
 

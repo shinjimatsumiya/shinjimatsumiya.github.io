@@ -25,6 +25,6 @@ website:
 format:
   html:
     theme:
-      light: [litera, styles.scss]
+      light: [cosmo, styles.scss]
     toc: false
     page-layout: article
