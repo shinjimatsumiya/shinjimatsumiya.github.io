@@ -34,9 +34,9 @@ Before entering academia, I worked for fifteen years as an administrator at a pr
 
 ## Selected work
 
-- A. Yonezawa, Y. Fan, R. Nakao, M. Murasawa, and **S. Matsumiya**. 2022. "Policy Debates and the Reality of the Research Productivity of National Universities in Japan." In *The Performance of Asian Higher Education*, ed. G. Croucher, C. Wang, and J. Yang, 100–113. Routledge.
-- **S. Matsumiya.** 2026. "Exploring the Factors Determining Under-Enrollment in Private Universities: A Multi-Level Model of Region, University, and Time" (in Japanese). *The Japanese Journal of Educational Research* 93(1): 14–25.
-- **S. Matsumiya**, R. Nakao, and Y. Fan. 2023. "Decentralization Trend Caused by the Policy of Tightening Private Universities' Capacity Management: A Reexamination Using Time-Series Data on Enrollment Rates" (in Japanese). *The Journal of Educational Sociology* 112: 169–190.
+- Akiyoshi Yonezawa, Yizhou Fan, Ran Nakao, Masataka Murasawa, and **Shinji Matsumiya.** 2022. "Policy Debates and the Reality of the Research Productivity of National Universities in Japan." In *The Performance of Asian Higher Education: Understanding Productivity Across Institutions and Systems*, edited by Gwilym Croucher, Chuanyi Wang, and Jiale Yang, 100–113. London: Routledge.
+- **Shinji Matsumiya.** 2026. "Exploring the Factors Determining Under-Enrollment in Private Universities: A Multi-Level Model of Region, University, and Time" (in Japanese). *The Japanese Journal of Educational Research* 93(1): 14–25.
+- **Shinji Matsumiya**, Ran Nakao, and Yizhou Fan. 2023. "Decentralization Trend Caused by the Policy of Tightening Private Universities' Capacity Management: A Reexamination Using Time-Series Data on Enrollment Rates" (in Japanese). *The Journal of Educational Sociology* 112: 169–190.
 
 [All publications →](publications.qmd)
 
