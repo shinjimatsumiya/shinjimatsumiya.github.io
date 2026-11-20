@@ -42,7 +42,7 @@ Before entering academia, I worked for fifteen years as an administrator at a pr
 
 ## Current projects
 
-- **After Universal Access: Contraction Without Exit in Japan's Private Higher Education** (working paper)
+- **After Universal Access: Contraction Without Exit in Japan's Private Higher Education**
 - **Human Capital or Signaling?** A comparative test of the college wage premium using survey data and university selectivity
 - Rethinking the causal relationship between under-enrollment and bankruptcy of private universities (JSPS KAKENHI 24K16629, PI, 2024–2027)
 
