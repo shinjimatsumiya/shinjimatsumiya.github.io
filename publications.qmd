@@ -86,15 +86,7 @@ Tateishi, Shinji, Kazuaki Maruyama, Mikiya Hayami, **Shinji Matsumiya**, Ran Nak
 Murasawa, Masataka, Ran Nakao, and **Shinji Matsumiya.** 2019. "University Research Productivity and Governance." *Nagoya Journal of Higher Education* 19: 153–169. [doi:10.18999/njhe.19.153](https://doi.org/10.18999/njhe.19.153)
 :::
 
-## Working papers and reports
-
-::: {.pub}
-**Matsumiya, Shinji.** "After Universal Access: Contraction Without Exit in Japan's Private Higher Education."
-:::
-
-::: {.pub}
-**Matsumiya, Shinji.** "Human Capital or Signaling? A Comparative Test of the College Wage Premium Using Survey Data and University Selectivity."
-:::
+## Reports
 
 ::: {.pub}
 Konishi, Ryo, **Shinji Matsumiya**, and Kentaro Takahashi. 2026. "Parallel Application Behavior and Enrollment Deposit Payments in University Admissions in Japan: A Preliminary Analysis Based on a Retrospective Survey of Students Enrolled in National Universities" (in Japanese). *Advancement of Higher Education Research: RIHE Monograph Series* 15: 1–16.
