@@ -119,3 +119,8 @@ Japan Society of Educational Sociology; Japan Sociological Society; Japanese Ass
 ## Certifications
 
 Certified Professional Social Researcher (Japan Association for Social Research); High School Teacher's License (Japanese Language)
+
+## Skills
+
+- Software — R, Stata, SPSS
+- Language — Japanese (native); English (academic reading and writing)
