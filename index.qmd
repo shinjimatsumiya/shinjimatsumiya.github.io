@@ -7,7 +7,7 @@ pagetitle: "Shinji Matsumiya"
 
 <div class="profile">
   <!-- 顔写真: files/face.jpg を置いたら、次の行の先頭と末尾のコメント記号を消す -->
-  <!-- <img class="face" src="files/face.jpg" alt="Shinji Matsumiya"> -->
+  <img class="face" src="files/face.jpg" alt="Shinji Matsumiya">
   <h1 class="name">Shinji Matsumiya</h1>
   <p class="role">Assistant Professor, Faculty of Economics, Josai University</p>
   <p class="links">
